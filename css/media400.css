@@ -1,0 +1,116 @@
+@media only screen and (max-width: 400px) {
+
+    .file {
+        width: 100%;
+        height: 389px;
+    }
+
+    .logo {
+        width: 15%;
+    }
+
+    .page,
+    .page1,
+    .page2 {
+        position: initial;
+        height: 200px;
+        width: 100%;
+        margin-left: initial;
+    }
+
+    .page {
+        margin-top: 50%;
+    }
+
+    .page1 {
+        margin-top: 44%;
+    }
+
+    .page2 {
+        margin-top: 10%;
+    }
+
+    .head {
+        margin: initial;
+    }
+
+    .plus,
+    .find,
+    .list {
+        display: none;
+    }
+
+    .put {
+
+        margin-top: 20%;
+    }
+
+    .site {
+        display: initial;
+    }
+
+    .page,
+    .page1,
+    .page2 {
+        position: initial;
+    }
+
+    .line {
+        width: 102%;
+        margin-top: 5px;
+    }
+
+    .text {
+        font-size: 13px;
+    }
+
+    .good {
+        background-color: #f2f2f2;
+        width: 100%;
+        text-align: center;
+        margin-left: initial;
+        margin-top: 158%;
+        position: absolute;
+    }
+
+    .good1 {
+        background-color: #f2f2f2;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        position: absolute;
+        top: 0%;
+        margin-left: initial;
+        margin-top: 62%;
+    }
+
+    .good2 {
+        background-color: #f2f2f2;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        position: absolute;
+        top: 0%;
+        margin-left: initial;
+        margin-top: 125%;
+    }
+
+    .soln,
+    .soln1,
+    .soln2,
+    .bad,
+    .bad1,
+    .bad2 {
+        margin: initial;
+    }
+
+    .heading {
+        font-size: 25px;
+    }
+
+    .type {
+
+        margin-top: 385%;
+    }
+
+}

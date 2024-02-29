@@ -1,0 +1,172 @@
+@media only screen and (max-width: 400px) {
+
+    .file {
+        width: 100%;
+        height: 389px;
+    }
+
+    .logo {
+        width: 15%;
+    }
+
+    .page,
+    .page1,
+    .page2 {
+        position: initial;
+        height: 200px;
+        width: 100%;
+        margin-left: initial;
+    }
+
+    .page {
+        margin-top: 50%;
+    }
+
+    .page1 {
+        margin-top: 48%;
+    }
+
+    .page2 {
+        margin-top: 11%;
+    }
+
+    .head {
+        margin: initial;
+    }
+
+    .put {
+
+        margin-top: 20%;
+    }
+
+    .best {
+        width: 15%;
+    }
+
+    .site {
+        display: initial;
+    }
+
+    .page,
+    .page1,
+    .page2 {
+        position: initial;
+    }
+
+    .line {
+        width: 102%;
+        margin-top: 5px;
+    }
+
+    .text {
+        font-size: 13px;
+    }
+
+    .good {
+        background-color: #f2f2f2;
+        width: 100%;
+        text-align: center;
+        margin-left: initial;
+        margin-top: 165%;
+        position: absolute;
+    }
+
+    .good1 {
+        background-color: #f2f2f2;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        position: absolute;
+        top: 0%;
+        margin-left: initial;
+        margin-top: 73%;
+    }
+
+    .good2 {
+        background-color: #f2f2f2;
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        position: absolute;
+        top: 0%;
+        margin-left: initial;
+        margin-top: 143%;
+    }
+
+    .soln,
+    .soln1,
+    .soln2,
+    .bad,
+    .bad1,
+    .bad2 {
+        margin: initial;
+    }
+
+    .heading {
+        font-size: 16px;
+    }
+
+    .line {
+        width: 15%;
+
+    }
+
+    .type {
+
+        margin-top: 420%;
+    }
+
+    .best {
+        width: 10%;
+        margin-top: 2px;
+    }
+
+    .read {
+        height: 320px;
+        max-width: initial;
+    }
+
+    .text1 {
+        font-size: 13px;
+    }
+
+    .fam {
+        color: #364b9b;
+        font-size: 27px;
+    }
+
+    .boot {
+
+        padding: 5%;
+        margin: auto;
+    }
+
+    .foot {
+
+        height: 520px;
+    }
+
+    .pull {
+
+        display: initial;
+        text-align: center;
+
+    }
+
+    .last {
+        text-align: center;
+    }
+
+    .side,
+    .side1 {
+        margin: initial;
+        width: initial;
+    }
+
+    .end {
+        display: initial;
+        justify-content: initial;
+    }
+
+
+}
